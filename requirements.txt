@@ -1,0 +1,2 @@
+xsmtplib==1.0.1.dev0
+colored==1.4.2
